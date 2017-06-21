@@ -85,6 +85,22 @@ body{
   margin-right: 10px;
 }
 
+.portfolio_link{
+	display: inline-block;
+	padding: 20px;
+	margin-left: 5%;
+	float: left;
+	width: 30%
+}
+
+.portfolio_image{
+	width: 100%;
+}
+
+.portfolio_text{
+	
+}
+
 .sidebar{
 	float: right;
 	width: 30%;
