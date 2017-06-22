@@ -108,6 +108,19 @@ body{
 	padding-bottom: 5px;
 }
 
+.contact_form{
+	padding-bottom: 10px;
+}
+
+.text_box{
+	width: 100%;
+}
+
+#text_box3{
+	height: 100px;
+	width: 100%;
+}
+
 .sidebar{
 	float: right;
 	width: 30%;
