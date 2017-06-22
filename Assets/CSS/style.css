@@ -147,9 +147,19 @@ a:hover{
 .sidebar{
 	float: right;
 	width: 270px;
+	height: 155px;
 	margin-right: 10%;
 	margin-top: 50px;
 	background-color: white;
+}
+
+.icon{
+	display: inline-block;
+	margin: 10px;
+}
+
+.icon:hover{
+	border: solid #4aaaa5 2px;
 }
 
 .footer{
@@ -162,9 +172,4 @@ a:hover{
 	text-align: center;
 	padding-top: 50px;
 	border-top: solid #4aaaa5 5px;
-}
-
-.icon{
-	display: inline-block;
-	padding: 10px;
 }
